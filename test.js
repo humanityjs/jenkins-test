@@ -5,3 +5,5 @@ describe('TEST', () => {
     expect(true).to.be.true;
   });
 });
+
+console.log('here');
